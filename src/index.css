@@ -97,6 +97,10 @@ body {
   padding: 0 20px;
   box-sizing: border-box;
 }
+.main .list{
+  margin-top: 20px;
+}
+
 .main .tabs {
   display: flex;
   font-size: 20px;
